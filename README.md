@@ -1,5 +1,7 @@
 # cyber-security-awareness curated list of ressources
 
+![Uploading image.png…]()
+
 ## 💌 Newsletters
 
 - **Phishing Stories**: Offers a variety of cybersecurity awareness stories, useful especially for all businesses. [Click here](https://phishingstories.beehiiv.com)
